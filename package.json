@@ -1,0 +1,22 @@
+{
+  "name": "filmo-test",
+  "version": "1.0.0",
+  "description": "testing filmo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kntmicheal/filmo-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kntmicheal/filmo-test/issues"
+  },
+  "homepage": "https://github.com/kntmicheal/filmo-test#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^6.5.2"
+  }
+}
